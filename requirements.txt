@@ -1,0 +1,14 @@
+pandas
+scikit-learn
+nltk
+streamlit
+transformers
+torch
+langchain
+openai
+faiss-cpu
+python-dotenv
+matplotlib
+pytesseract
+Pillow
+PyPDF2
