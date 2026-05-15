@@ -1,7 +1,9 @@
+streamlit
+ollama
 pandas
+numpy
 scikit-learn
 nltk
-streamlit
 transformers
 torch
 langchain
